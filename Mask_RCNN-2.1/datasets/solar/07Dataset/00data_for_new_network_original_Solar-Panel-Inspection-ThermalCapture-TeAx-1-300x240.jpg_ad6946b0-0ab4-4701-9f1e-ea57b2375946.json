@@ -1,0 +1,1502 @@
+{
+  "version": "4.1.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "solar",
+      "points": [
+        [
+          277.7932960893855,
+          29.18994413407821
+        ],
+        [
+          255.7262569832402,
+          31.983240223463685
+        ],
+        [
+          261.1731843575419,
+          60.19553072625698
+        ],
+        [
+          285.0558659217877,
+          56.84357541899441
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          258.93854748603354,
+          31.70391061452514
+        ],
+        [
+          236.59217877094972,
+          34.497206703910614
+        ],
+        [
+          241.20111731843576,
+          62.01117318435754
+        ],
+        [
+          264.3854748603352,
+          59.35754189944134
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          240.78212290502793,
+          34.63687150837989
+        ],
+        [
+          218.85474860335196,
+          37.150837988826815
+        ],
+        [
+          221.64804469273741,
+          64.52513966480447
+        ],
+        [
+          243.85474860335196,
+          61.59217877094972
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          221.50837988826814,
+          37.150837988826815
+        ],
+        [
+          201.53631284916202,
+          39.52513966480447
+        ],
+        [
+          203.6312849162011,
+          66.4804469273743
+        ],
+        [
+          224.4413407821229,
+          63.547486033519554
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          204.05027932960894,
+          39.52513966480447
+        ],
+        [
+          184.35754189944134,
+          42.31843575418994
+        ],
+        [
+          185.33519553072625,
+          69.27374301675978
+        ],
+        [
+          206.2849162011173,
+          66.20111731843575
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          186.731843575419,
+          42.45810055865922
+        ],
+        [
+          168.7150837988827,
+          44.832402234636874
+        ],
+        [
+          168.7150837988827,
+          71.64804469273743
+        ],
+        [
+          187.84916201117318,
+          68.85474860335195
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          170.53072625698323,
+          45.11173184357542
+        ],
+        [
+          152.79329608938548,
+          47.06703910614525
+        ],
+        [
+          152.37430167597765,
+          72.90502793296089
+        ],
+        [
+          170.81005586592178,
+          70.39106145251397
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          154.7486033519553,
+          46.927374301675975
+        ],
+        [
+          137.43016759776535,
+          49.86033519553072
+        ],
+        [
+          136.731843575419,
+          75.13966480446928
+        ],
+        [
+          154.3296089385475,
+          72.48603351955308
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          139.9441340782123,
+          49.86033519553072
+        ],
+        [
+          122.76536312849161,
+          52.6536312849162
+        ],
+        [
+          122.06703910614524,
+          77.09497206703911
+        ],
+        [
+          139.3854748603352,
+          73.74301675977654
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          125.55865921787709,
+          52.6536312849162
+        ],
+        [
+          110.05586592178771,
+          54.88826815642458
+        ],
+        [
+          108.10055865921788,
+          78.77094972067039
+        ],
+        [
+          124.30167597765363,
+          75.83798882681565
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          112.56983240223464,
+          54.88826815642458
+        ],
+        [
+          97.20670391061452,
+          57.262569832402235
+        ],
+        [
+          94.41340782122904,
+          80.8659217877095
+        ],
+        [
+          110.47486033519553,
+          78.63128491620111
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          99.44134078212291,
+          57.12290502793296
+        ],
+        [
+          84.07821229050279,
+          59.63687150837989
+        ],
+        [
+          82.40223463687151,
+          82.9608938547486
+        ],
+        [
+          96.92737430167598,
+          80.58659217877094
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          284.21787709497204,
+          54.7486033519553
+        ],
+        [
+          260.75418994413405,
+          57.68156424581005
+        ],
+        [
+          266.20111731843576,
+          89.80446927374301
+        ],
+        [
+          291.20111731843576,
+          85.19553072625698
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          263.9664804469274,
+          57.68156424581005
+        ],
+        [
+          241.0614525139665,
+          59.91620111731844
+        ],
+        [
+          244.97206703910615,
+          90.92178770949721
+        ],
+        [
+          268.1564245810056,
+          88.54748603351955
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          243.85474860335196,
+          60.055865921787706
+        ],
+        [
+          222.20670391061452,
+          62.56983240223464
+        ],
+        [
+          224.86033519553072,
+          92.31843575418995
+        ],
+        [
+          248.18435754189943,
+          90.22346368715084
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          224.30167597765362,
+          62.43016759776536
+        ],
+        [
+          203.91061452513966,
+          64.80446927374301
+        ],
+        [
+          205.58659217877096,
+          94.27374301675978
+        ],
+        [
+          227.0949720670391,
+          92.0391061452514
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          206.14525139664804,
+          64.3854748603352
+        ],
+        [
+          185.6145251396648,
+          66.89944134078212
+        ],
+        [
+          187.01117318435755,
+          95.53072625698324
+        ],
+        [
+          208.10055865921788,
+          93.71508379888267
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          188.268156424581,
+          66.62011173184358
+        ],
+        [
+          169.1340782122905,
+          69.27374301675978
+        ],
+        [
+          169.41340782122904,
+          97.48603351955308
+        ],
+        [
+          189.24581005586592,
+          95.11173184357541
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          170.6703910614525,
+          68.85474860335195
+        ],
+        [
+          152.51396648044692,
+          71.22905027932961
+        ],
+        [
+          152.51396648044692,
+          98.88268156424581
+        ],
+        [
+          171.3687150837989,
+          97.06703910614524
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          154.60893854748602,
+          70.81005586592178
+        ],
+        [
+          137.01117318435755,
+          73.18435754189944
+        ],
+        [
+          136.03351955307264,
+          100.97765363128491
+        ],
+        [
+          154.46927374301674,
+          97.90502793296089
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          138.8268156424581,
+          72.90502793296089
+        ],
+        [
+          122.06703910614524,
+          75.0
+        ],
+        [
+          120.53072625698324,
+          101.81564245810056
+        ],
+        [
+          138.268156424581,
+          100.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          124.58100558659217,
+          74.86033519553072
+        ],
+        [
+          108.5195530726257,
+          77.23463687150837
+        ],
+        [
+          106.56424581005587,
+          103.2122905027933
+        ],
+        [
+          123.18435754189944,
+          101.39664804469274
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          110.75418994413407,
+          77.23463687150837
+        ],
+        [
+          94.55307262569832,
+          79.74860335195531
+        ],
+        [
+          92.73743016759776,
+          104.88826815642457
+        ],
+        [
+          108.65921787709497,
+          102.93296089385474
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          288.9664804469274,
+          86.03351955307262
+        ],
+        [
+          266.4804469273743,
+          88.26815642458101
+        ],
+        [
+          271.92737430167597,
+          121.36871508379888
+        ],
+        [
+          294.6927374301676,
+          118.57541899441341
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          267.7374301675978,
+          87.29050279329608
+        ],
+        [
+          245.6703910614525,
+          89.24581005586592
+        ],
+        [
+          249.4413407821229,
+          122.06703910614524
+        ],
+        [
+          273.8826815642458,
+          120.6703910614525
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          248.04469273743015,
+          88.8268156424581
+        ],
+        [
+          226.11731843575419,
+          90.92178770949721
+        ],
+        [
+          228.6312849162011,
+          123.04469273743017
+        ],
+        [
+          251.53631284916202,
+          121.92737430167598
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          227.37430167597765,
+          90.50279329608938
+        ],
+        [
+          206.14525139664804,
+          92.45810055865921
+        ],
+        [
+          207.54189944134077,
+          124.72067039106145
+        ],
+        [
+          230.3072625698324,
+          123.46368715083798
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          208.10055865921788,
+          92.31843575418995
+        ],
+        [
+          187.56983240223462,
+          93.85474860335195
+        ],
+        [
+          188.268156424581,
+          125.83798882681565
+        ],
+        [
+          209.77653631284915,
+          124.44134078212291
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          189.10614525139664,
+          93.85474860335195
+        ],
+        [
+          170.11173184357543,
+          95.81005586592178
+        ],
+        [
+          169.83240223463687,
+          126.39664804469274
+        ],
+        [
+          190.50279329608938,
+          125.55865921787709
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          171.7877094972067,
+          95.81005586592178
+        ],
+        [
+          152.6536312849162,
+          97.3463687150838
+        ],
+        [
+          152.23463687150837,
+          126.81564245810056
+        ],
+        [
+          171.92737430167597,
+          126.25698324022346
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          154.88826815642457,
+          97.20670391061452
+        ],
+        [
+          136.59217877094972,
+          98.88268156424581
+        ],
+        [
+          135.33519553072625,
+          128.07262569832403
+        ],
+        [
+          154.60893854748602,
+          126.67597765363128
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          138.8268156424581,
+          98.46368715083798
+        ],
+        [
+          120.53072625698324,
+          100.13966480446928
+        ],
+        [
+          119.41340782122904,
+          129.3296089385475
+        ],
+        [
+          137.7094972067039,
+          127.93296089385474
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          123.32402234636871,
+          99.86033519553072
+        ],
+        [
+          106.70391061452514,
+          101.53631284916202
+        ],
+        [
+          104.88826815642457,
+          130.3072625698324
+        ],
+        [
+          122.06703910614524,
+          128.91061452513966
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          87.70949720670392,
+          59.497206703910614
+        ],
+        [
+          73.18435754189944,
+          61.452513966480446
+        ],
+        [
+          69.6927374301676,
+          84.4972067039106
+        ],
+        [
+          84.91620111731844,
+          82.54189944134077
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          75.13966480446928,
+          61.1731843575419
+        ],
+        [
+          62.56983240223464,
+          63.40782122905028
+        ],
+        [
+          58.5195530726257,
+          85.05586592178771
+        ],
+        [
+          72.06703910614524,
+          82.9608938547486
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          65.36312849162012,
+          63.12849162011173
+        ],
+        [
+          51.95530726256983,
+          65.36312849162012
+        ],
+        [
+          47.90502793296089,
+          86.45251396648044
+        ],
+        [
+          60.614525139664806,
+          84.77653631284916
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          54.18994413407821,
+          65.36312849162012
+        ],
+        [
+          41.75977653631285,
+          67.73743016759776
+        ],
+        [
+          37.29050279329609,
+          88.12849162011173
+        ],
+        [
+          50.279329608938546,
+          86.31284916201118
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          273.18435754189943,
+          118.71508379888267
+        ],
+        [
+          249.72067039106145,
+          119.97206703910614
+        ],
+        [
+          253.91061452513966,
+          154.18994413407822
+        ],
+        [
+          278.63128491620114,
+          153.07262569832403
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          251.39664804469274,
+          119.97206703910614
+        ],
+        [
+          228.35195530726256,
+          121.22905027932961
+        ],
+        [
+          232.26256983240222,
+          155.72625698324023
+        ],
+        [
+          255.86592178770948,
+          153.91061452513966
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          230.16759776536313,
+          121.22905027932961
+        ],
+        [
+          208.10055865921788,
+          122.62569832402234
+        ],
+        [
+          208.51955307262568,
+          156.70391061452514
+        ],
+        [
+          234.35754189944134,
+          155.86592178770948
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          209.91620111731842,
+          122.3463687150838
+        ],
+        [
+          188.40782122905028,
+          123.46368715083798
+        ],
+        [
+          189.10614525139664,
+          155.72625698324023
+        ],
+        [
+          211.59217877094972,
+          154.7486033519553
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          190.3631284916201,
+          123.32402234636871
+        ],
+        [
+          169.97206703910615,
+          124.16201117318435
+        ],
+        [
+          170.53072625698323,
+          157.26256983240222
+        ],
+        [
+          191.4804469273743,
+          156.00558659217876
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          172.06703910614524,
+          123.88268156424581
+        ],
+        [
+          152.6536312849162,
+          125.0
+        ],
+        [
+          152.93296089385476,
+          157.26256983240222
+        ],
+        [
+          172.62569832402235,
+          156.70391061452514
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          154.7486033519553,
+          124.72067039106145
+        ],
+        [
+          135.33519553072625,
+          125.97765363128491
+        ],
+        [
+          135.19553072625698,
+          157.26256983240222
+        ],
+        [
+          154.88826815642457,
+          156.9832402234637
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          137.84916201117318,
+          125.83798882681565
+        ],
+        [
+          119.55307262569832,
+          126.95530726256983
+        ],
+        [
+          118.85474860335195,
+          157.26256983240222
+        ],
+        [
+          137.43016759776535,
+          156.9832402234637
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          108.79888268156424,
+          101.25698324022346
+        ],
+        [
+          92.73743016759776,
+          102.93296089385474
+        ],
+        [
+          90.50279329608938,
+          130.58659217877096
+        ],
+        [
+          107.12290502793296,
+          129.88826815642457
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          96.92737430167598,
+          78.49162011173185
+        ],
+        [
+          82.82122905027933,
+          80.8659217877095
+        ],
+        [
+          80.02793296089385,
+          105.8659217877095
+        ],
+        [
+          94.27374301675978,
+          104.60893854748603
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          85.47486033519553,
+          80.16759776536313
+        ],
+        [
+          70.25139664804469,
+          82.26256983240224
+        ],
+        [
+          67.59776536312849,
+          106.70391061452514
+        ],
+        [
+          82.12290502793296,
+          105.3072625698324
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          72.62569832402235,
+          82.54189944134077
+        ],
+        [
+          59.497206703910614,
+          83.79888268156425
+        ],
+        [
+          55.3072625698324,
+          107.54189944134077
+        ],
+        [
+          69.41340782122904,
+          106.42458100558659
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          60.89385474860335,
+          83.79888268156425
+        ],
+        [
+          48.46368715083799,
+          85.19553072625698
+        ],
+        [
+          44.134078212290504,
+          109.35754189944134
+        ],
+        [
+          57.82122905027933,
+          107.54189944134077
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          50.279329608938546,
+          84.91620111731844
+        ],
+        [
+          37.43016759776536,
+          86.73184357541899
+        ],
+        [
+          33.37988826815642,
+          110.05586592178771
+        ],
+        [
+          46.229050279329606,
+          108.79888268156424
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          43.435754189944134,
+          67.31843575418995
+        ],
+        [
+          32.68156424581006,
+          68.99441340782123
+        ],
+        [
+          28.212290502793294,
+          89.80446927374301
+        ],
+        [
+          38.96648044692737,
+          87.98882681564245
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          34.21787709497207,
+          69.55307262569832
+        ],
+        [
+          23.60335195530726,
+          70.94972067039106
+        ],
+        [
+          17.877094972067038,
+          91.75977653631284
+        ],
+        [
+          29.748603351955307,
+          89.94413407821229
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          39.80446927374302,
+          86.59217877094972
+        ],
+        [
+          28.631284916201118,
+          87.98882681564245
+        ],
+        [
+          23.463687150837988,
+          110.89385474860335
+        ],
+        [
+          35.754189944134076,
+          109.35754189944134
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          30.58659217877095,
+          88.12849162011173
+        ],
+        [
+          17.59776536312849,
+          89.94413407821229
+        ],
+        [
+          13.687150837988826,
+          111.73184357541899
+        ],
+        [
+          25.558659217877093,
+          110.19553072625698
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          94.41340782122904,
+          102.6536312849162
+        ],
+        [
+          80.72625698324022,
+          103.77094972067039
+        ],
+        [
+          76.81564245810056,
+          130.72625698324023
+        ],
+        [
+          92.17877094972067,
+          130.44692737430168
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          82.54189944134077,
+          103.91061452513966
+        ],
+        [
+          67.87709497206704,
+          105.16759776536313
+        ],
+        [
+          63.96648044692737,
+          131.4245810055866
+        ],
+        [
+          79.18994413407822,
+          130.44692737430168
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          69.6927374301676,
+          105.44692737430168
+        ],
+        [
+          55.865921787709496,
+          106.14525139664805
+        ],
+        [
+          51.675977653631286,
+          131.56424581005587
+        ],
+        [
+          66.75977653631284,
+          131.14525139664804
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          57.960893854748605,
+          106.14525139664805
+        ],
+        [
+          44.55307262569832,
+          107.12290502793296
+        ],
+        [
+          40.08379888268156,
+          132.26256983240222
+        ],
+        [
+          53.910614525139664,
+          131.2849162011173
+        ],
+        [
+          57.68156424581005,
+          107.54189944134077
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          46.089385474860336,
+          107.12290502793296
+        ],
+        [
+          33.37988826815642,
+          107.9608938547486
+        ],
+        [
+          29.88826815642458,
+          133.10055865921788
+        ],
+        [
+          42.45810055865922,
+          132.26256983240222
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          35.754189944134076,
+          108.37988826815642
+        ],
+        [
+          23.60335195530726,
+          109.21787709497207
+        ],
+        [
+          19.83240223463687,
+          133.51955307262568
+        ],
+        [
+          32.82122905027933,
+          132.54189944134077
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "solar",
+      "points": [
+        [
+          25.977653631284916,
+          109.35754189944134
+        ],
+        [
+          13.40782122905028,
+          110.6145251396648
+        ],
+        [
+          10.05586592178771,
+          133.79888268156424
+        ],
+        [
+          22.905027932960895,
+          132.68156424581005
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "00data_for_new_network_original_Solar-Panel-Inspection-ThermalCapture-TeAx-1-300x240.jpg_ad6946b0-0ab4-4701-9f1e-ea57b2375946.jpg",
+  "imageData": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADwASwDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDNGG3FjjHf3prx7VT1PNO7YAp2O5Nac1iFJLRCRzLG7FlJOOlJuk+znkBWPShsCNv7xNKX8wRpGuSOoxW0Xoax2GlASFB54qVkkyhz0/SnG2kUiSV0QZ555qQNbxPuSNpT/tHilKokgciFGaW4TGWPPQd6mS2kik8yWREHQ+tLPcySL+7Hlj24qEwyTFdiO/qf/wBdZSr3I577En+jK5KI0pHTccCkkuXZss/l+yj+tTxafK7KX+QDtuq4NNgyC43EVzzxST1YlzNmWP3rEZ3n6ZqSOxndshMD3OK2UijjGFQAfSpMZrkli+w1S7szo9MyuJGH0UYqwmn2yY/dhj6tzVkLTsYrB15vqWoJDFQKMAACnYpwxiis229yhuKUUppADjrSAMClGKMUmKADNHWl7e9JmgAxRiigmgBaTNJmkpAOozTaM0DsPzSZzTc80UwsOpvek/GikFhc0fjSYpKdh2HUlFFHKwDNFJz6UZqlTYXOa3ZO3nPoOaeYpdvQKPVuKd52zhEEfY7eTT47KWU7gpJ9WNey5RjucqSREqw4ywaV+5zgU8zyH5ciNewUVdj0xi26SYgf3U4q7HbRR9Fz7nmsJ4uK2LSkzFW3mlYFUdvduKupphOCzbT1+WtMAClxXLPFSexSgupUj0+CPnZuPXLHNWQoUcDFO70h5rCVSUt2WkkKADRigDinAVAXEpRRgUZpWC4AGlxSZo3UwF6UU3NGaLhYdRmmE0Z96LhYUmgGm8+tFIdh2aTNJkUUWGLuozmm/hRVcrAcSaTNNLBerAVE15AuQZVz6Zq40ZvZCuiaiqTapCPuq7/QVE2qOfuwkD1JrVYaXUlzijSorIe/uT0KqD7VE0078md/oOK0WGS3ZDrRNssB1IFRvcwp96VB+NYZLOfm3n6tRwONg/KrVCC3Jdfsa7ahbKceZn6DNRtqcY+7HI34YrMJwMeZSZ75bHrg4rSNGPRE+0k1oaR1Nu0WPqahe/uCfl2L+GapAbm2qWLHt61OlrPIxAhC+7GqVO3QXNNjzeXBXmQD6CojNITkzPn60SQSQHdIq4PYVJDaefGJFOAe2Kv2b3BqafkakVpDEcrGM+pFWNtH4Uc15EpyluzpSSDbS4oAoqBgBSkUmaTNMQtGcUmaM0h2FzRmm5ozQOw4mkzzTTS07ABNFJzSFwByQKpU5PZC0HUZqu13AvWQH6GoW1KID5VZvwrVYebJc4rqXcmjFZbanKRxGq/8CqE3854LD8K0jhX1ZLqx6G0SB1NMaaJfvOB+NYTzFzyXb2zTAVDdlBH1rVYaJLqvsbL6hAoONzEegqBtUA+7Cw9Mms4pJ5ecHb9O1TxW8syblUkHuTxV+yjFXsS5yJG1CeQ/KVX6DNRG5mfIaV/w4qZtNlCD51Hc0+z09bhDI7HdkggHHTirdlG4rTZRdh/EGY/7R/8Ar0g2jH3Vz61uGwt3bHlAkDqait4kW4mj2jCkYqVNOLfYPZt2TZmrHI3RGIPTjimiKUy+XsYnGccCugUDp0xVOYYvoGHfKn8v/rUqU+e4/YpFRdPnJz8qj3qOWzeEbpGG3vtFbNQXa7raQf7Jq6crysy+RIgj05AuWkZs/hTm06DHCn86sW7b7eNvVRUhqVNqQ1FFCzgiDSoUBZD1PWrEkS7MY4qOPCajKv8AfQGrLDIrVytNMdjBc+Tcq4zw3NbgINYt8m1ifetK2l3wxnOciumtFaMbHzxh06ZIqjbXH2aMxE9GNaeMise5s5GnYgcUqTTjZgrbM380maSj6V8/ylik0ZpOR1pCyjqQKpU29haC0VA95bo20yDd6Dmq76koz5cTt7nitY4eb3QnNIv8ZozWU2ozHoET68mq73M75zO2PYAVosN3ZHtkbjOqjLMAPc1Xa+tkOPMBPtzWMDvGcO59SC1PiinlBCKeDjpgVssNFEupJ7I0n1OMfcUk/lVd9RnJwoRR71AbWVZURwAWOOD/APWqz/Zi7fmkOfQCtFSjHoK83uV3u53BDM3/AAHioS+7l8kD+8c1ftLSN1LtliGIBJ7CkvLZAmVQAkjoPetIwV+UXs292UFUs2FVuOyinxxGVxHGG3deTWwygDgY7VWtVAvDwcqCM/jTcVyOXYpQ7si/s2VuTKB7YpYLESM4d2wpxgcVpnpUUGQ8v+9/SsFO8Gx8i0I2s4Ag+TJHQmm2Eai3OVBIZh+tWn6GoLP/AFLf77fzNF/3XzKsiSUDYRUVgAtqAOm4/wA6mkGVNQ2Gfs3PXc38zTf8L5jJ3+6ahsCwSQHG4Oen5/1qcjIqvaLte4X0k/oKl60mhFvkd+e9VogBeyn+8oNWPXioQALsD+8tZU17jQ3oTA4OMdarXqMkkDkjhxn8eP61acqpABGKpXk0Zj2hwXDKQM+9VQi1LYTfmW6ZIMoR7VEb6Acbix9FGaie+YL8lvIc+oxWsKc09UD1JbEn7IinquV/KrNZlrcT4kCRAnfkgt0zU+69bnEKj6kmnOi+ZsLjpgEuoX9cp/n8qsHpWRdC6VRJJIpCkEADpU729w4Ba5bb1+UYrV0bpagF3GpYEtx9abp8saQsrkLtYgZqN7BpgGhZj/vmooYy9y8NwoyFzW8nePKDbNNr22QcyrUDalbbvvH8qihWNEIWND6kionQBvuj8qFQsyuV7M0G1K3VtobJ9hUMupOGwkY+pNZrM2PmA56UiucBT1JxXIsPbWxi5TaLLX1y2T5gGOyioWkDklnZsdck4phjUJs53Z61JI4SJogMDpxXUsMyvZtvcaisULRxfLjOTTkBmwQ2xc4Oeac+6NVTnCgE01QRbrgeprSOGiVGjG4+KFZJzHuO1RncO9TTQRB0jUHJYDr1ptipKTPjrxT40Y36deMmk4RV/IaglexeKrGmFUAYptp/x7hsfeJP60+Yfu2J6AUsKbIEX0FcrfuCsiF/mvogP4QSast0qBUH20vnomP1qWSREUlmA+ppT+KKQEdmMWq++T+tJdfdT3df50QzRRxRxmRdwUDANQzXccjqqBmKtnAHXFNKXtGwbJ5i38NQ2SMt1MW64FI1zIyFkhIxwd5xiktnuHlc/u87R71pJP2TQ76GiajhGGkPq1MlSdo8CYK3char20LSRNvmckOc4OK5Y0/ceor6l12VRliAPeq1vNCkDEyKAXY8n3pZ7aJ1JZc/U1HYIrWoJUE5I6e9WqcVTuGo+W/gToxb6DNRW10BExSKR8uSMD15qa5O2Fj6CotNJMUmf+ehrTkiqd7B5kk01wE3JEBxn5m6VXtJZ5JJtpTcSC2e3H/1quTHEbY9Kpaec3M/uF/rVRivZt2C2hZZJ2iw0+G/2RVKIEXwjaWRsgjJODWkx4rMU/8AExQ/7R/lVU1eDHbRmgbWHOWUv/vMTWdfQJGS6YB61rHpWbfjJA9QadG7eo47l6DBgRgMZGaJVDDnP4VFYsWs4z+FTt0rPaVyUUrILHdyIufmUHn6mtA1QQbNRj90I/WtCprP37jKt5HvtpB7Utu/mWsZ6naKndcqaq2H/HsUPVWI/WqjK8RCG7azc7VyMdKzmuvMvROV2knGBV+9jyoOKyZV2EY6ZrqjGLjzLcrlT1L6zHcR05z0prlixOaEjJZT2K5qQrzWt4otWM98s6gA8UBiZsgU5n3MCsZxjFJGCD+7x7k9qzbTasZ6NrQmjj86VR+NOaLdOqerc0xEOXJlwFOPlFOEUck5wzlQm4kmtHLsXzdiS6TazZkXkYxmnGS3ii2eYp+Xt2qBlgZ4gq4ywByeop8+xEZEHy49KWuwtXoyW1uFjtyEjd2JJ4FOhuJZJ2ZLf5lGMFsU5SIrVFAOdvUUaf8AMZXzySB+QrGS0bJe1x1091sIZYgDxgEmplhmKnzLg8joq4xUN0W82Idi4q6TxWM9IpIRTt7ZWlmzJIwBAzuqW7giFu58sEhTg060HEp9ZDTrr/UkepA/M1m5P21hixxIiDCgHHYVDIB9rg9iT+lW8cVWkH+mR+ysf5VNOV2xDbpgFx0zUen8vO3uBTboklcVJYAgz5/v/wBK3q6USnsWpThCfQVBYf8AHuSe7n+dWHG5SPWoLFSttgjncf51z3XsvmIkm+4ahsBttiPR2/nVlxkYqCzA8lh/tt/M07/u7CGXmfIbFN00/uZB6OakuioQgnrxUViViEwZgB5nf6Ctpfwkh30LMwyhHqKo2QKXkinugNWpLqBQf3qfnVRLuFbsTFsIU2/jmiN/ZtBfoaDDis10KXSN23j9atG/iZSUDvj0U1SkuWmlC7WUZBBI9KqF1FpheyZrkVSu4ySnHtSi8nZ9q2z49TxVe7kugwzGqgHPBopJqWoJ6ljTebZl/uuRVsjFZNqZ3V1t2A+bLbqstDcshL3OD6KtS43kK4TkJewSZwM4NaGR61gP5sWWLF+mc9q0I7EEBpJpGzyRuoq007XB3RcaVF6sPzqlb3EcctwCcLvzk06axgbkKenrVNbdPtohblCMgUQpqwFu4vIcbd45FZbuJCVXnPStSSOODDLGnTHIrMuGDdCPwropp8vulJO2hYju/KjRGUll44qT7VI/zLbuR64/+tUFmR5Tq3JzVoSlRhQQPSiMW9QjFtGcpIUkDnOafFvEYG0cnOabINjBUORipciNRjZ06Zq01zCurjoFZoX5UBm71JbqczE46bcCgTRJCoBUsBzhadDcqsWI43dicnC0OWmhVyGMKLlflyADRNuYjAOCQOlLDK5aQrAzE8dcYpGa489FKAHOQu7vTcg5i9MjbuhwFpbBNttuxySc+9Vrg3QQs7xqOeBUtvHP5KEz7UK5wFrCd3GxN9Cdl33MQzwCWqc4ArKgiZ7pl89yQM7hU9xbKI2LSykgZ5es5Qu0hbFy2ASAAnkkn9abPNH8q71zuHGfeoLW0i8iN3BZtueWNNlgtxcRKI1yzZP5Gs+RObYFpry3Ck+apA9DVRr6E3AkBJUKR0PU1b8qNUKqigemKgiAN1KMcKoGKcIRWqArT3XmIDHHIQTkHoKmtZphGxSEuWbJOcYplzxsVR8uan03/j2P+8f51rWVqaG9kLPJd7MiNF9fmzTLU3DwgxlFQk+561ZnbbESKi0//jzT3JNY3tTvYViOaG42Ddc9D1C0y2t/OhD+dIoLHgHHerVwSIyRmotO/wCPQfU/zqr/ALu6C3UjvLONkzlsj1amWVvHMr+aisVOB9MVZu+YmFQ6bgecPRv6VTv7K47aFh7eFUwIk/KqVqMXqggbSp4/GtCXO04rNg3C/iB9Gpxu6bbC2hqH5VOOKxr4nfk54FbLdKyL0Mc5OcA1WH6jjuaqnKA+1UbsneBircJzBGT/AHRVO7A8zrToL3ghuJpx2zTqfY1fY8Vm2XF84z1Wr0uAnWiUffFa7M24ZnLr7ZrStnL20bf7IrOnwWYL3FXLBs2ie3FXWjoipk02ShAx0rObek8LnG4nGKszu2Kpzsd0bHsacINRBJ2LtyRsBY/hWVL2q/Pl13ZzVKQ5XFbU42jYqK90VXO8BTjK07efU1CGAKH8KkPWlQ2sKk7KwxmHAQd+tSNGoRQOSTUe7aiBeOc1LGN0sa4PXNZUrWbM6b0uTTsIwUVuB2HrT8mGNUCkNt5PrUEu5iF28s3WrF2WV9wHQVpazSNLa2EtiyR+YF++3rRblpLoMQPkUke9PjRkt0HGCMn60liPnkY9R8tRK1mxPa42+LsoBx05q1MdlttUngACqsuGn2cn5wKuXALLgY5qXuhbNFeyGJpCc5wKbfMcE5PIxipLNW8uU55LdajuELDlhhmA/WhW5mwWjLwO2JRjoOlVN4k1CIjspq07BTyQBiqKgJeg78gDr9aiEdGJLQ0s5FVEYC4uSTgDAz+FSRyrvK57VRchjMRzl/X2ojD3rMLa6jGZWcDccVf03AtAR3Y1lFguOBn2rSspo47WMOwU88E1WI1VkOb1Lcv3TTLEYs46ilvbdVP7wH6UWt3bpbxoZADjpXNKL5LWJLEy7kIqKwGLQf7x/nUVxfIvCq7f8BNMgvUggRHVsnJ4FPlfs7DLcyhl5qvYDbLcAf3hUU9+SvyROM9yMUyG5MG9yhZ3I+Udqu37uzA1G6VQ2kajET05pWu53jLJbsB6k1UjmkNyrvksPugdzTpqydw6M2SMiqNzBuRm3cjJoSa9kOPIA9zVWdbsE7hgZ5waKXuvcE7M07fm3j/3RVa7Rc5PeooftboGiKKh6ZOaWeC68rc86Y9AKqHuyuEXqRwfu71e+RWi4BQ1jbXjkA8zLNwGHara2s4wGuSB3xVTd3cG+o2QAyYyBT7ElA8bEcHioLm1KMf3rOMdTUcKLMSmCCO4HJqm3JbDbbWxfnwR98d6py7GjILjOMjmpFtoFkYSh8Y4xVVkRWzHnHbJpxcktEO8rFiORBGoaTHHSopNpHygn8KYu2RN7Z3A4FLlBEV2fOf4s1SdRxukCcrXI2GQMLipt6gYZTn60yNQWwTmnJHvXOO+KwjKXM0ZQlK7Q04XHfHOKcsjLKGGCSOAD0pi4DgmkjPVsDrRSixU4k3mMsyllyy84zSzTvJktGOfQ01HBuCwAwFxSZJAA67sit1F7myXVk5kuPJwUQBRjGeaIDOU3I0casckt3pDK24NknFEXEAz1xmk4By6jVEv2gYlUucnOOKlkLsqs9zn2CUy35mbP8KHFNJ+Qgnpmjk1Ycu4+COQoW+0FEY/3etRNFm4RDI53HGTxirKtiCOP/ZzUULBryIntnNLl0bC2lyS4t1jjOZpWbtk8VVVRvZWL4wMEGrl3IGCgVXjGRKfcYpxirK41HRXGSKq42bgcYOTTVTcNrEnv1xS8s/NNUkRg+5q3TjzIHBXEbYzgIgTHoc5q3aRpK+XRSQPSqXr7VdtzsCHPaolTV7LsTyK5JdRqqMyqo9gtX7RENpE20ZKg9Kzp2GGBPBQn9K10RY4Y1U5AUVxYtWgkhNJWQ940YfKAeOao24XYeB94jn61dL7UIqhbSb4WYjHzsf1rPDqTTFbUS8YFACBUdiw3ycDt0HtSXLhjgelQ2khVpD2yK7+T93YvlukjSkOEODWZ5p+1xZ/vVelkAyp9Kzz81xFj++KVONosSXus181SuwpUjdzmrLOAMkGqVwwJJA4JGKVKGo4LUsWJH2VcDFFxjA4ptlJ+62EYIonkyMAUKL5xR3KTczIRxzWq33ax5S2Bx0NaSvuQDB+7nrV1Y6oclqV7lzxyD7VBallu+BjctK53sRjGKjiP+lR5PHTitJRtEqSsi1JuMpyeoqpna+O1TO3zkg8ioGOWzWkY6WLtpYEICunoc0jHJpQfnYADJHWmkGppfDYiOwJ8r06N9oYY/iNR4+YU1iSSa5JL32zCVrj2X5iO9OULHFyeQeak+y7mbbLFx/tcU5LRps7WjJB5+f/AOtUwm4ig5LcjhYbJSQPm4FID+8UehqW5sZIYi7EBB6etC2srqMBemfv81oq6sX7TQaSVibPpTySEUdsAZpTYS4BbYR7v/8AWp50+4KjCp/31nNP6xG92P2mpEjgPIR04FNlwFbnqvFSNZXCKwEIz6hhTVsbl1+eM4+o5oVaPKCnoOZhvGD0AFRx4EpbPQZ/Wn/Yro/MkWMHoTQLS53l5IWJPGARTdaFrFc+g15N+ec85pI25Y9i1ONtdK5/cHH1FMFvN9zBBb5sGqdWLYOYZ2tnuKjydgwDil8mRHCnPJxkGnvBKhKsr47UpVdbpClN30RCW685yKsBjsQgYAFENlJKgKAEH36fWpP7OujlRgBe5PWoVeKl7woz1IndWU5JBAPStm3kzbREnkqKyfsk+VjwjbgeQc1MkNwz+UrAMigH5qiq4VetgclJmjNIqqMnGTisyG4CwMCcksac9rdqUDbXUMON1NOnXIIACYJznd0og6UFa4XSInlJwc5FNSQhpVAABANStptyFxlM9gGoNhcpHu+XJHKk81o8RTdrDdRXEM2SrPzxioWYgBgP4+KsLpt2VGWQfj0/Sk/s65Em07SOvXih4inshuaFknYZyeoqIuGUA+tSDT7h3ZTtGO5bg/SnPpl0o3BlYDqKf1inEamrEUcxVpAOADxQ8zHv1p50+5GXCKcnOAeak/s24YZJT6E1KxNOOpKnboU3fKgZy1PEshRTntipn06dCN2zGOW3dKT+z7klQCCrfxA9KFiIt8wlPXYg5J5PXrTG++hHY1afTZlGQwY+gNNSxnUn9yT9WoniLoJ1HYj6lj2zTMjbUyWMpZoyNrkZAJqaPTZwuCq496csVZB7VlFSS24dAKC2c7RV5LCdFO5UUd+c09dNl9I1HbvmsfrNrkc0rvQz1BxkigoGOa0Tp0+Dh0/EU3+zrj+LywfTmsXUbdzKUZt3Ekd2j/feW237oA6n3qODBkBkRMDoBx+NQPIxIyaeGAxu59K9FUoW0OpQjYsTedJFtwzru4BIx7UxLSU2rK0W2TPDZ7UiXJDD5BxVtLwMOVIrKdJrZCcHuiBk8oLGtm0gHUtUkeUCoYZAW565C1ZSdGPUVLuX1Fc8k+xDj3M1GxD5bxz7z1YE1IGVCCIbnAGAMn/Gr+4UuRUtrqgsinLOEXcqSmT0GcVDHNKdhklmBOcgLwK0SwpRgUtF0DlM5DukDNPK23knGBinfaI5JQCJuRjJHXNXyRTCFPUCqun0CxXDxJMYhKVPuOKkRoo2C+YTI/JGOtP2J/dH5Uu1N2dozjGcUSs+4WRAGW3vWPyqjIOB/EatsC68OVPtTCiMQSoJHQ46UpxWMoczv1H6kAs5EHyTsOTgYGBmmFZ4Q+3qOchfvVMWAOM/rTGVXBBYkHqM9a1jCW0tRcpU824umDK4/djLYzjNWo2uEGZ3UD1x0ojhSMbYxtHfFOeFJAA+Wx61UoR2BrzGvcL85W5T5euBnFVuJVS4uJvKlx8ox/SrQtogu0KAMY4pos4g5crk+9JRitnYLaEP2ply/noDnbuK9f1p8stybdJI3WRyf4BxTvsFvnOwdc9akWEIAI/lA6CnyxvcLEAnnypyoQ9flyc+mKl81oWVHlYeYeNy9Paka1SQgvnI9DT2gjZgWySORk9KUoQYcop+0h0VZE24+ZivengyEf6xfbK4pnlIG3AnOc9ajm+bB8w5HQZqVQT0BImkjmkBXzUCkY5WmRwXMUZVJUIH3QRTVDNGAWY++aYFeNCPNZsn1p+wlayl+A+XoSRmcuVM8QK43AL0/Wn7bgthZ0/75/8Ar1SlRnYszHOMHBxVcIEJ2sw/HFX9Vb6/gPkbL7Ws3mCT7QPMHGccY+lWollXPmSbvwxWQqKz5OT77jxVhYzkjzGI93NKeGdtWHK0aTEbecAVXxMkLDzUUDhT6CqcsCleT+GTUXlho9hJx9TThhbLf8B8tzRWFhGUa4Zmbue1RSMIW2SXjbgOeP8A61VCoIUE/d6HuKecMcsxJ9ar6trqw5O5n4JySoFPCBlBACp2JNDsnmfKp29lJ608F2O9guF5UdqUeXqYprqI0TpEJN4K5wNpzUamWQEhzgGpmctHG2wBmJ3EVEqL5RJyozw3vWnMk9GXdLYVRPGeHA+tBlm6EjB7jmiYs6oWO04x060fvDGAo+QdSKpzXcfP5j1u5FHyspNON5OQOMjsQetQKYQr+Yp39FAqxCEctGxUqCHJJxkY6VPMg5rCfapSeVb86edRdMZQ496J1E0yLCwZccbP4R71ArbJnRlEij+9wTTbTQ7k/wBvdh9xvwpgvCWyS4FIPL8pQVKt3wfWnzW6QspCMYshWcn+VHMkHP2Hf2k2ehx64pw1D1B/Kopoo+BbSO5HX2FNgtVmkjDFgrA89s1LkuxLl0sWv7TjxgHn3FRvfFh978gaX7CuxlFwuCxXkd/Sq72uyQQiVC57f/Xoi4rUadiQXIUZJJ96kS8+Xjb+LYqg0ZilKyAYHftTriIwsoAQgjORVuQ3Mt/bCX5bH0pReFeS1UzFIqMzbAB704Rs8Pm+WCv1pc67IXtPIvrfrjkj86X7cD0x+dZiAOcCPr0xSFNrYaNgT0zR7vYd12Nf7WCvUfnTVvBnkrisoISWwpIX73tTlUEZ2HFS3FdCXNI1Tex4PNNe6VsYANZZUdl/Wm78joaIuO6QKpF6pGn9tbsoqB5SxyCKqA+i4NIHQdVrRVEtolKp2RcjuXClRk0plbnmqgcfwgD8acFGM4JpOulvETrJbol8xj1Jphz603yz3B/OkEYz1OfSn9aXYf1hEqswp4kYGoDH7NSCME9T+BpfWovoJYiLLDSmmCU5xTDGuOc59KURIeec0vrUFuhfWIocWbPSjL+lRlTnA3UuD/eNV9aj2KWIVrkhYC4WWZASeq0kgyS6MNpJO30FQ4LPubJHbNOILtuxgdKym4WM5SjYFAZhk4Hr6U5kG47WJUf3qTbxSEk4HpxWPMjLnBhkgl9x6YPanMs0cZHSNjmk25FHzYwSSPTNCkhqSQrZQMhUfMM+4oLAqVCZy2cd6auOvfpinszM6twNvTjpRcL2ZIsu2NlXCS4wCo7VG5VyrK2WC4OfWhSykhcfOeWIpPKXf8pDsQSwHQU7lX6jQgLxlnAzyTipZpdzbFw0X0qMbd2CCR2x2pWjZCoyCW5wKfMxKTsIwVEKoxx3wetLsb7sbNjrjPekxzgde9KOD71HMyPaNdSWN5lL78EbclT0/wD11XXLDI3Z7U/7owB15oVsNkcYHSjn7A6l1YFLHcXUOAOh7UKIztIUlieR2xQGY9+aXnuc0OTQc7sISPNb5AO9EYDP065oo2nHAP1HahSCL1GuRC4CHgY+gNSbYyu4kSPyc+tIXztG0ABT2/WmqxiYYAyOPmFaKRon0CLLq0fy46ken4044GUzkDpihwJJNwTaMcgd6aGC8Z6ntWcnfYmTvsAUsCR0HXNKSfljTPPBBGOaTIIOCeevNBDAHuD60JvqSm+obWiIOOOGB7LUgnm3M4RWGOu39aR2D26jJDrxjHBFNZ2C7QTtParUzTm7k63KeYYZY0IboyilmKxg5tkIPAYGq+AwBOeOntTSGYjLNtHTmmqiYKotmPR1VBugQsP4iOtOUwBC7qGz0Ve1R7UPrRjaMrwKSqCVXXUmVIVmQkjy2OQD6elWZo7KPloDj27VQ27o9rEnByD3FOZ5GXY0hK+uOabnFlOpEncWbopjOwH1pkiW+0lc9BgjvUDRAL1z7U8u5QKihFxg+9VGpCwKpHdCI6L0iDZGPmNXIlsJYwzRhT0IqisYHJb6U/ByeAeetTzwbHGcXJ6icg4zmjBpDgCk8z0FZJN7HPZy2H5/Ogn2pgk9RTs5pcrT1DkDNABPQj8aYW+UcU7OKq1giPeTewOB2HFNHPNOiQSBiZNuBnB5po/Kpl5DlFgR6c/WlUYbC9/TjijilAIyc4PakmJSsrMYR2z04zTgWBznnGKTFLxTcg5nsICQc0d80vHrR+NTdsnVh2NGKXv6e1FJCE4GcgnPSjHQHrQRRQ2Ah5GKORuOcg8EUtFNOw7tAxLAZI49O1KzM5yxHvikxS02w5mJkjpSib91s8lD7mimgYoTSKjKw4OGfLRKF7gUBkMh3sRH2puPxpQQvLIrZ7GrTTZSkm9R8ctoFPmRPu6gAnmmSbHx5YKr6HqKV5POdWIxikIAPHA9qUmkxzkr2FUDYcsBSDkY7UmKUcVLZm7BijFFLU3EJijpS0U7gFFJRSuIDxR5R9aD0pnze9Uhg5qMZXJp7iolODzXTSSsb0g8wk0bvc0hAbpTefWtuQ1cNbkqHPBNKWIao1z1qQjcMmj2SY+RChzinbhUTD5acFATOc1EqBDpdSQuuetG4HjNQZB6jmpFAxk1H1dk+xdtSQEY5NGR61D3PNKDxk1DotMh0ZEo+lPjcI/I+U9ahVyfpS7+ahwYkmtB3RR6c4pzcYwwOaYOn1pQAAcDrUPTchi8+tLtJUsOn8jSY4pcnGM4B6ikSNyTwKX7ozwPr3pQQCewNO8wkjIztoKSGdqXNIW3Fmxt3HsaenlFGV2KsejUWHy3GmkpXLISpIP9KGTjCsGduMAdBQkLkYnHrRkn0x2pjlkba4wR0BqSSN4wCwyD0xVcrQ+Rgf1pBSkFTtYEGjqajUnyYUUUUCDFFFFABRRRQAUUUUAFFFFAH//Z",
+  "imageHeight": 240,
+  "imageWidth": 300
+}

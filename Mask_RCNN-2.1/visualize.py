@@ -17,7 +17,10 @@ import matplotlib.patches as patches
 import matplotlib.lines as lines
 from matplotlib.patches import Polygon
 import IPython.display
-
+import cv2
+import os
+import json 
+from datetime import datetime
 import utils
 
 
@@ -84,6 +87,14 @@ def display_instances(image, boxes, masks, class_ids, class_names,
     scores: (optional) confidence scores for each box
     figsize: (optional) the size of the image.
     """
+
+	now = datetime.now().time()
+	now_str = str(now).split(":")[-1].split(".")[-1]
+	cv2.imwrite("image" + now_str + ".jpg", image)
+	os.mknod("image" + now_str+ ".json")
+	image = {"boxes": boxes, "masks" : masks}
+	json.dump(open("image" + now_str + ".json","w"), image)
+
     # Number of instances
     N = boxes.shape[0]
     if not N:

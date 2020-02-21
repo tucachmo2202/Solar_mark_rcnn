@@ -92,7 +92,9 @@ def display_instances(image, boxes, masks, class_ids, class_names,
     now_str = str(now).split(":")[-1].split(".")[-1]
     cv2.imwrite("image" + now_str + ".jpg", image)
     os.mknod("image" + now_str+ ".json")
-    res = {"boxes": boxes, "masks" : masks}
+    box = boxes.tolist()
+    mas = masks.tolist()
+    res = {"boxes": box}
     json.dump(res, open("image" + now_str + ".json","w"))
 
     # Number of instances
@@ -451,3 +453,4 @@ def display_weight_stats(model):
                 "{:+9.4f}".format(w.std()),
             ])
     display_table(table)
+

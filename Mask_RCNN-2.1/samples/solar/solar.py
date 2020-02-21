@@ -33,6 +33,7 @@ import json
 import datetime
 import numpy as np
 import skimage.draw
+import cv2
 
 # Root directory of the project
 ROOT_DIR = os.getcwd()
@@ -117,28 +118,47 @@ class SolarDataset(utils.Dataset):
         # We mostly care about the x and y coordinates of each region
         # Note: In VIA 2.0, regions was changed from a dict to a list.
         
-        jsonfiles = [a for a in os.listdir(dataset_dir) if a.endswith('.json')]
-        for file in jsonfiles:
-            annotations = json.load(open(os.path.join(dataset_dir, file)))
-            shapes = annotations['shapes']
-            polygons = []
-            for shape in shapes:
-                polygon = {'name' : 'polygon'}
-                polygon['all_points_x'] = [int(x[0]) for x in shape['points']]
-                polygon['all_points_y'] = [int(y[1]) for y in shape['points']]
-                polygons.append(polygon)
-            image_path = os.path.join(dataset_dir, annotations['imagePath'])
-            height = annotations['imageHeight']
-            width = annotations['imageWidth']
 
-            self.add_image(
-                "solar",
-                image_id = annotations['imagePath'],
-                path = image_path,
-                width = width, height = height,
-                polygons = polygons
-            )
-                
+        if subset == "train":
+
+            jsonfiles = [a for a in os.listdir(dataset_dir) if a.endswith('.json')]
+            for file in jsonfiles:
+                annotations = json.load(open(os.path.join(dataset_dir, file)))
+                shapes = annotations['shapes']
+                polygons = []
+                for shape in shapes:
+                    polygon = {'name' : 'polygon'}
+                    polygon['all_points_x'] = [int(x[0]) for x in shape['points']]
+                    polygon['all_points_y'] = [int(y[1]) for y in shape['points']]
+                    polygons.append(polygon)
+                image_path = os.path.join(dataset_dir, annotations['imagePath'])
+                height = annotations['imageHeight']
+                width = annotations['imageWidth']
+
+                self.add_image(
+                    "solar",
+                    image_id = annotations['imagePath'],
+                    path = image_path,
+                    width = width, height = height,
+                    polygons = polygons
+                )
+        else:
+            files = os.listdir(dataset_dir)
+            files = [file for file in files if not file.endswith(".json")]
+            print(files)
+            for file in files:
+                path = os.path.join(dataset_dir, file)
+                img = cv2.imread(path)
+                width, height = img.shape[:2]
+                self.add_image(
+                    "solar",
+                    image_id = file,
+                    path = os.path.join(dataset_dir,file),
+                    width = width, height = height,
+                    polygons = {}
+                )
+
+
     def load_mask(self, image_id):
         """Generate instance masks for an image.
        Returns:

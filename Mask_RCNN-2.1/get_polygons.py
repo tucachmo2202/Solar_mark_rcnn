@@ -47,7 +47,7 @@ file_names = os.listdir(save_folder)
 file_names = [f for f in file_names if f.endswith(".json")]
 black = cv2.imread("black.jpg") #Black image 1024*1024
 for file_name in file_names:
-    result = json.load(open("save_folder" + file_name))
+    result = json.load(open(save_folder + file_name))
     mask = result["masks"]
     info = result["info"]
     try:

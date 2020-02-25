@@ -3,7 +3,7 @@ import cv2
 import os
 import numpy as np
 
-results_dir = "./box/"
+results_dir = "./save_folder/"
 file_names = os.listdir(results_dir)
 file_names = [f for f in file_names if f.endswith(".json")]
 for file_name in file_names:

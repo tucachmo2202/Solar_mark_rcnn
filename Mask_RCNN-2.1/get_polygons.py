@@ -41,7 +41,7 @@ def apply_mask(image, mask, color, alpha=0.5):
                                   image[:, :, c])
     return image
 
-save_folder = "/home/manhas/Desktop/result_image/save_folder/"
+save_folder = "./save_folder/"
 
 file_names = os.listdir(save_folder)
 file_names = [f for f in file_names if f.endswith(".json")]
@@ -76,4 +76,4 @@ for file_name in file_names:
         boxes = []
     mask = mask.tolist()
     results = {"boxes": boxes, "info": info}
-    json.dump(results, open("./box/" + file_name.split("jpg")[0] + ".json", "w"))
+    json.dump(results, open(save_folder + file_name.split("jpg")[0] + ".json", "w"))

@@ -48,6 +48,7 @@ file_names = [f for f in file_names if f.endswith(".json")]
 black = cv2.imread("black.jpg") #Black image 1024*1024
 for file_name in file_names:
     result = json.load(open(save_folder + file_name))
+    bounding_box =  result["boxes"]
     mask = result["masks"]
     info = result["info"]
     try:
@@ -75,5 +76,5 @@ for file_name in file_names:
     except:
         boxes = []
     mask = mask.tolist()
-    results = {"boxes": boxes, "info": info}
-    json.dump(results, open(save_folder + file_name.split("jpg")[0] + ".json", "w"))
+    results = {"boxes": boxes, "bounding_box": bounding_box, "info": info}
+    json.dump(results, open(save_folder + file_name.split(".")[0] + ".json", "w"))

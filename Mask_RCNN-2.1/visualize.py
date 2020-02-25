@@ -88,14 +88,14 @@ def display_instances(image, boxes, masks, class_ids, class_names,
     figsize: (optional) the size of the image.
     """
   
-    now = datetime.now().time()
-    now_str = str(now).split(":")[-1].split(".")[-1]
-    cv2.imwrite("image" + now_str + ".jpg", image)
-    os.mknod("image" + now_str+ ".json")
-    box = boxes.tolist()
-    mas = masks.tolist()
-    res = {"boxes": box}
-    json.dump(res, open("image" + now_str + ".json","w"))
+    # now = datetime.now().time()
+    # now_str = str(now).split(":")[-1].split(".")[-1]
+    # cv2.imwrite("image" + now_str + ".jpg", image)
+    # os.mknod("image" + now_str+ ".json")
+    # box = boxes.tolist()
+    # mas = masks.tolist()
+    # res = {"boxes": box}
+    # json.dump(res, open("image" + now_str + ".json","w"))
 
     # Number of instances
     N = boxes.shape[0]

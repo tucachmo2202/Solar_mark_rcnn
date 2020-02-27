@@ -33,7 +33,6 @@ import json
 import datetime
 import numpy as np
 import skimage.draw
-import cv2
 
 # Root directory of the project
 ROOT_DIR = os.getcwd()
@@ -78,11 +77,6 @@ class SolarConfig(Config):
     # Skip detections with < 90% confidence
     DETECTION_MIN_CONFIDENCE = 0.9
 
-    IMAGE_MIN_DIM = 800
-    IMAGE_MAX_DIM = 1024
-    # If True, pad images with zeros such that they're (max_dim by max_dim)
-    IMAGE_PADDING = True  # currently, the False option is not supported
-
 
 ############################################################
 #  Dataset
@@ -118,47 +112,44 @@ class SolarDataset(utils.Dataset):
         # We mostly care about the x and y coordinates of each region
         # Note: In VIA 2.0, regions was changed from a dict to a list.
         
+        jsonfiles = [a for a in os.listdir(dataset_dir) if a.endswith('.json')]
+        for file in jsonfiles:
+            annotations = json.load(open(os.path.join(dataset_dir, file)))
+            shapes = annotations['shapes']
+            polygons = []
+            for shape in shapes:
+                polygon = {'name' : 'polygon'}
+                polygon['all_points_x'] = [int(x[0]) for x in shape['points']]
+                polygon['all_points_y'] = [int(y[1]) for y in shape['points']]
+                polygons.append(polygon)
+            image_path = os.path.join(dataset_dir, annotations['imagePath'])
+            height = annotations['imageHeight']
+            width = annotations['imageWidth']
 
-        if subset == "train":
+            self.add_image(
+                "solar",
+                image_id = annotations['imagePath'],
+                path = image_path,
+                width = width, height = height,
+                polygons = polygons
+            )
 
-            jsonfiles = [a for a in os.listdir(dataset_dir) if a.endswith('.json')]
-            for file in jsonfiles:
-                annotations = json.load(open(os.path.join(dataset_dir, file)))
-                shapes = annotations['shapes']
-                polygons = []
-                for shape in shapes:
-                    polygon = {'name' : 'polygon'}
-                    polygon['all_points_x'] = [int(x[0]) for x in shape['points']]
-                    polygon['all_points_y'] = [int(y[1]) for y in shape['points']]
-                    polygons.append(polygon)
-                image_path = os.path.join(dataset_dir, annotations['imagePath'])
-                height = annotations['imageHeight']
-                width = annotations['imageWidth']
-
-                self.add_image(
-                    "solar",
-                    image_id = annotations['imagePath'],
-                    path = image_path,
-                    width = width, height = height,
-                    polygons = polygons
-                )
-        else:
-            files = os.listdir(dataset_dir)
-            files = [file for file in files if not file.endswith(".json")]
-            print(files)
-            for file in files:
-                path = os.path.join(dataset_dir, file)
-                img = cv2.imread(path)
-                width, height = img.shape[:2]
-                self.add_image(
-                    "solar",
-                    image_id = file,
-                    path = os.path.join(dataset_dir,file),
-                    width = width, height = height,
-                    polygons = {}
-                )
+    #Hàm để load ảnh bất kì với path truyền vào
+    def load_solar_for_any_image(self, dataset_dir, path):
+        self.add_class("solar", 1, "solar")
+        file_name = path.split("/")[-1]
+        img = cv2.imread(path)
+        width, height = img.shape[:2]
+        self.add_image(
+            "solar",
+            image_id = file_name,
+            path = path,
+            width = width, height = height,
+            polygons = {}
+        )
 
 
+                
     def load_mask(self, image_id):
         """Generate instance masks for an image.
        Returns:
@@ -213,7 +204,7 @@ def train(model):
     print("Training network heads")
     model.train(dataset_train, dataset_val,
                 learning_rate=config.LEARNING_RATE,
-                epochs=50,
+                epochs=30,
                 layers='heads')
 
 
